@@ -1,0 +1,14 @@
+node_modules/
+node_modules
+# Ignore any log files
+*.log
+
+# Ignore environment variables file
+.env
+
+# Ignore built files
+/dist/
+/build/
+
+# Ignore dependencies installed by package managers
+*.lock
